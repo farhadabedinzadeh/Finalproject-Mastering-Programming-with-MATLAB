@@ -21,8 +21,7 @@ It also presents many powerful features of MATLAB including **object-oriented pr
 
 ### Final Project
 
-In the final project of this course, I used object-oriented programming techniques and developed a MATLAB application with professional graphical user interfaces (GUIs) that visualize COVID-19 pandemic data from around the world.
-I did enjoy doing this project as it's a good chance to apply newly learned skills to a real world problem. :)
+Using object-oriented programming approaches, I created a MATLAB application with professional graphical user interfaces (GUIs) to show global COVID-19 pandemic data for the final project of this semester. This project is a great opportunity to apply freshly acquired abilities to a real-world situation, thus I did enjoy working on it.
 The data obtained from the [Coronavirus Resource Center at the Johns Hopkins University](https://coronavirus.jhu.edu/map.html) is available from the `covid_data.mat` file.
 
 ![snapshot](https://user-images.githubusercontent.com/96732467/182003607-b6e90cca-83eb-4bd9-a4b2-53e584336e91.JPG)
